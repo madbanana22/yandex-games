@@ -1,2 +1,3 @@
 # yandex-games
-Haxelib for integrating Yandex games SDK into your Haxe projects
+> [!WARNING]
+> This library is not production ready yet, neither is it feature complete.
